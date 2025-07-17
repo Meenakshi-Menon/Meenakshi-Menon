@@ -17,8 +17,12 @@ Built using **React**, **Node.js**, **Express.js**, **MongoDB**, and **Socket.IO
 ### 🔹 [Agriguard Rover – AI-Powered Agriculture Rover](https://github.com/Meenakshi-Menon/Agriguard-Rover)  
 Trained and deployed deep learning models (DenseNet121, ResNet50) for paddy disease detection using image processing and real-time inference.
 
+- [Agriguard Rover Repo](https://github.com/Meenakshi-Menon/Agriguard-Rover.git)  
+
 ### 🔹 [Aura AI – Generative Voice Assistant](https://github.com/Meenakshi-Menon/AuraAI)  
 Voice-controlled intelligent assistant using Mistral AI and macOS automation with speech recognition and TTS.
+
+- [Aura AI Repo](https://github.com/Meenakshi-Menon/AuraAI.git)  
 
 ---
 

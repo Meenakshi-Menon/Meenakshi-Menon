@@ -1,6 +1,6 @@
 # Meenakshi S Menon
 
-I am a final-year Computer Science Engineering student at VIT Bhopal University, specializing in Artificial Intelligence and Machine Learning, with a CGPA of 9.12. My technical interests lie in building scalable full-stack applications, developing real-time systems, and applying machine learning to solve practical problems. With hands-on experience in deep learning, web development, and voice assistant technologies, I strive to build impactful solutions that blend innovation with user-focused design. I am also passionate about continuous learning, actively pursuing certifications, side projects, and leadership roles that enhance both my technical and soft skills.
+I am a final-year Computer Science Engineering student at VIT Bhopal University, specializing in Artificial Intelligence and Machine Learning, with a CGPA of 9.13. My technical interests lie in building scalable full-stack applications, developing real-time systems, and applying machine learning to solve practical problems. With hands-on experience in deep learning, web development, and voice assistant technologies, I strive to build impactful solutions that blend innovation with user-focused design. I am also passionate about continuous learning, actively pursuing certifications, side projects, and leadership roles that enhance both my technical and soft skills.
 
 ---
 
